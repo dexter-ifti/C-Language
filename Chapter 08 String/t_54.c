@@ -1,0 +1,3 @@
+/*
+Write a program to check whether a given character is present in a string or not.
+*/

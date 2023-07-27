@@ -1,0 +1,21 @@
+Here are some problems related to pointers in C:
+
+1. Write a C program that takes an array of integers and its size as input, and finds the second largest element in the array using pointers.
+
+2. Write a C program that takes two arrays of integers and their sizes as input, and merges them into a third array in ascending order using pointers.
+
+3. Write a C program that takes a string as input, and reverses it using pointers.
+
+4. Write a C program that takes an array of integers and its size as input, and calculates the sum and average of its elements using pointers.
+
+5. Write a C program that takes a matrix of integers and its dimensions as input, and finds the transpose of the matrix using pointers.
+
+6. Write a C program that takes an array of integers and its size as input, and checks if it is a palindrome or not using pointers.
+
+7. Write a C program that takes an array of integers and its size as input, and sorts the array in ascending order using pointers.
+
+8. Write a C program that takes an array of strings and its size as input, and sorts the strings in alphabetical order using pointers.
+
+9. Write a C program that takes an array of integers and its size as input, and removes all duplicate elements from the array using pointers.
+
+10. Write a C program that takes a two-dimensional array of integers and its dimensions as input, and checks if it is a magic square or not using pointers.
