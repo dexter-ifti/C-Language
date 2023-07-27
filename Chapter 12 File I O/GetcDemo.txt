@@ -1,0 +1,1 @@
+This is fgetc demo file created by Taha
